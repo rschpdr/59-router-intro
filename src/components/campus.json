@@ -1,0 +1,48 @@
+[
+  {
+    "id": "sao-paulo",
+    "img": "https://www.datocms-assets.com/14946/1584522349-sao-paulo-4.jpg?auto=compress&dpr=1&fm=jpg&w=864",
+    "title": "Porque escolher o campus de São Paulo?",
+    "paragraphs": [
+      {
+        "title": "A alma econômica do Brasil",
+        "content": "São Paulo é o motor económico do Brasil e uma das cidades mais empreendedoras do mundo. É o lugar eleito das mais icónicas empresas tecnológicas na América Latina: Nubank, Gympass, Loggy e 99."
+      },
+      {
+        "title": "Estude no meio de tudo isto",
+        "content": "A poucos passos do nosso campus, encontre inspiração para a sua futura carreira na Avenida Paulista, o endereço de muitas instituições financeiras e culturais da cidade. É o centro do poder político e econômico de São Paulo, com amplos espaços comerciais e alguns dos maiores museus de artes da América do Sul."
+      },
+      {
+        "title": "Vanguarda ativa",
+        "content": "Os melhores museus e galerias de arte do Brasil, assim como uma vasta variedade de opções de restaurantes, bares e outras opções de vida noturna, revelam o modernismo estonteante da cidade."
+      },
+      {
+        "title": "A cereja do bolo",
+        "content": "Como se tudo isso não fosse suficiente, quando você terminar o seu trabalho ao final dia, você poderá sair diretamente para o centro da vibrante vida na maior e mais linda cidade da América do Sul. Enquanto você explora a cidade, você será confrontado com impressionantes edifícios históricos, paisagens naturais de tirar o fôlego e a agitação da vida quotidiana."
+      }
+    ]
+  },
+  {
+    "id": "miami",
+    "img": "https://www.datocms-assets.com/14946/1584522355-miami-4.jpg?auto=compress&dpr=1&fm=jpg&w=864",
+    "title": "Porque escolher o campus de Miami?",
+    "paragraphs": [
+      {
+        "title": "Uma cidade de Start-ups em crescimento",
+        "content": "Miami é um dos hub's de startups com maior crescimento na América, apenas atrás de Austin, no Texas. Alcance o seu futuro na nossa unidade em Building.co, um espaço de co-working de última geração no coração desta cidade dinâmica."
+      },
+      {
+        "title": "Um centro global para as artes        ",
+        "content": "Como anfitriã da Art Basel Miami Beach, a maior feira de arte da América, Miami é uma junção da cultura americana e internacional. E você não vai perder nada, porque estamos a apenas 10 minutos de Wynwood, lar da cena criativa de Miami."
+      },
+      {
+        "title": "Um centro Internacional",
+        "content": "Lar da maior população estrangeira do que qualquer cidade americana, Miami é um centro internacional de tecnologia e negócios. Nossos alunos e funcionários ficarão felizes em mostrar as oportunidades distintas desta cidade para você."
+      },
+      {
+        "title": "Work hard, play hard",
+        "content": "Se você está procurando praias incríveis, boates de classe mundial, cervejarias locais ou um cenário artístico e tecnológico emergente, Miami está repleta de entretenimento excepcional a apenas alguns minutos do nosso campus."
+      }
+    ]
+  }
+]
